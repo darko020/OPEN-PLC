@@ -12,7 +12,7 @@ PLC stands for Programmable Logic Controller. It is an industrial digital comput
   - Program Execution: It executes the program logic step-by-step based on the inputs.
   - Output Scan: It sends the resulting commands to output devices (like motors, valves, etc.).
 
-### common PLC programming languages	
+### Common PLC programming languages	
  
   - Ladder logic (LD)
   - Function block diagram (FBD)
