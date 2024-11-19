@@ -1,7 +1,5 @@
 # Open-PLC
 
-# Open-PLC
-
 ## PLC
 	
 PLC stands for Programmable Logic Controller. It is an industrial digital computer made to operate machinery, manufacturing processes, or any other activity that has to be highly reliable, easy to program, and capable of diagnosing process faults.
