@@ -6,7 +6,7 @@ Download Open PLC Editor from https://autonomylogic.com/download/
 
 ## Creating New Project using Open PLC Editor
 
-Its a simple **ON-OFF Switch** program 
+**ON-OFF Switch** program 
 
 ![image](/Images/Image-001.png)
 
